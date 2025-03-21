@@ -13,6 +13,12 @@ Bienvenido a mi portfolio de SQL Este repositorio contiene una colección de pro
    - Tecnologías: MySQL
    - [Ver proyecto](/practica1)
 
+### 1. **Base de Datos de una tienda**
+   - Descripción: Base de datos para gestionar los productos de la fabrica.
+   - Tecnologías: MySQL
+   - [Ver proyecto](/practica2)
+
+
 ## 🚀 Cómo usar este repositorio
 1. Clona el repositorio:
    ```bash
