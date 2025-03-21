@@ -1,6 +1,6 @@
 # Base de Datos de un Club
 
-Este proyecto es una base de datos SQL que gestiona socios y deportes en un club. Incluye dos tablas principales: `deporte` y `socio`, relacionadas mediante una clave foránea.
+Esta practica es una base de datos SQL que gestiona socios y deportes en un club. Incluye dos tablas principales: `deporte` y `socio`, relacionadas mediante una llave foránea.
 
 ---
 
