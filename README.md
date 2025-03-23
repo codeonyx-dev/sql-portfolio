@@ -18,6 +18,10 @@ Bienvenido a mi portfolio de SQL Este repositorio contiene una colección de pro
    - Tecnologías: MySQL
    - [Ver proyecto](/practica2)
 
+### 3. **Base de Datos de una biblioteca**
+   - Descripción: Base de datos para gestionar los libros de una biblioteca 
+   - Tecnología: MySQL
+   - [Ver proyecto](/practica3/)
 
 ## 🚀 Cómo usar este repositorio
 1. Clona el repositorio:
